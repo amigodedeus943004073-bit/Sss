@@ -1,0 +1,6 @@
+{
+  "name": "Gestão Financeira e Encomendas",
+  "description": "Aplicativo inteligente de fluxo de caixa automatizado e encomendas integradas com relatórios da IA em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
